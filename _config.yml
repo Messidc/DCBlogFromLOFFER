@@ -14,7 +14,7 @@ description: 与书虱斗其乐无穷
 #
 
 # 你的博客logo图片URL，建议尺寸不超过300px × 300px
-avatar: https://ihatebooklice.oss-cn-hangzhou.aliyuncs.com/Images/logo-simple.png?Expires=1565884506&OSSAccessKeyId=TMP.hXAWPpZty6SdUP3pDgNvp9uqDbjLX8gpR8FXgSVK1bZobDfTWJ7RLduNSNmAzytNq3yV6yVcKmbiW3xN3urWHjxWFEaywX8C61Bp8UbEvbKh9zDhVrhepdSUp2yk5N.tmp&Signature=YtSot6lw8f7%2F7AIT1FHT2kxNSxk%3D
+avatar: https://ihatebooklice.oss-cn-hangzhou.aliyuncs.com/Images/logo-simple.png
 
 # 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
 favicon: https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/favicon.png
@@ -74,7 +74,7 @@ gitalk:
 google_analytics:
 
 # 输入你的网站域名（如果你没有添加自己的域名，而是直接用GitHub pages分配的域名的话可以省略）
-url: https://www.booklice.fun
+url: www.booklice.fun
 
 # 添加你的博客的二级域名，一般来说是你的repository名
 # 如果你的博客的URL是：(http://yourusername.github.io/repository-name)
